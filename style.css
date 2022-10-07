@@ -35,7 +35,7 @@ body {
 .picture-container {
   display: flex;
   justify-content: center;
-  background-image: url("https://imgs.search.brave.com/C10GoxPslKePqy2frj1HdWpuYJS0xRF27IO3aIOSJiA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC8wLzMvMS8x/Mzc3MDUzLWZyZWUt/ZG93bmxvYWQtY29v/bC10cmVlLWJhY2tn/cm91bmRzLTI1NjB4/MTQ0MC1mb3ItaGQu/anBn");
+  background-image: url("/images/header-img.png");
   background-position: center;
   margin-bottom: 120px;
 }
